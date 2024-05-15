@@ -1,1 +1,1 @@
-web: gunicorn project.wsgi
+web: gunicorn ai_running_partner_api.wsgi
