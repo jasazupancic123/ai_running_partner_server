@@ -1,1 +1,1 @@
-web: gunicorn --preload ai_running_partner_api.wsgi
+web: gunicorn ai_running_partner_api/wsgi.py
